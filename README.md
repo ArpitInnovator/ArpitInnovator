@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ARPIT</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitinnovator&label=Profile%20views&color=0e75b6&style=flat" alt="arpitinnovator" /> </p>
 
-- 📄 Know about my experiences [Resume Here](https://drive.google.com/file/d/13hY57XLm9u_jJ682PfXWSf6PYWMZ0Rj2/view?usp=sharing)
+- 📄 Know about my experiences [Resume Here](https://drive.google.com/file/d/1B54Q_gvs1GUYY1tsBnf4kLp4GWhCguzw/view?usp=drive_link)
 
 - 👨‍💻 Checkout my [Linktree](https://linktr.ee/arpit.me)
 
