@@ -9,7 +9,7 @@
 
 - 📫 Feel free to reach me **arpitprofessional04@gmail.com**
 
-- ⚡ Fun fact: **Milke Bataunga**
+
 
 
 
