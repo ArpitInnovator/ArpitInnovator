@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arpitinnovator&label=Profile%20views&color=0e75b6&style=flat" alt="arpitinnovator" /> </p>
 
 # 💫 About Me:
-🎓 I’m currently in my final year at ECE Department of IIIT Kalyani<br>🌱 I’m currently learning Backend Development<br>💬 Ask me about: Flutter , FastAPI , MySQL, MonogDB<br>📩 How to reach me: arpitprofessional04@gmail.com<br>📄 Know about my experiences: [Resume Here](https://drive.google.com/file/d/1X0BENRgeV9ZR4wcbvVt-yTRSzWGTTbmx/view?usp=drive_link)<br>👨‍💻 Checkout my [Linktree](https://linktr.ee/arpit.me)<br>⚡ Fun fact: I like Geopolitics
+🎓 I’m currently in my final year at ECE Department of IIIT Kalyani<br>🌱 I’m currently learning Backend Development<br>💬 Ask me about: Flutter , FastAPI , MySQL, MonogDB<br>📩 How to reach me: arpitprofessional04@gmail.com<br>📄 Know about my experiences: [Resume Here](https://drive.google.com/file/d/1V8fn1L1wHKnGEOI7n0mBwsBWtH35oTK2/view?usp=drive_link)<br>👨‍💻 Checkout my [Linktree](https://linktr.ee/arpit.me)<br>⚡ Fun fact: I like Geopolitics
 
 
 
