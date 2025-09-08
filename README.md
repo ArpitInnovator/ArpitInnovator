@@ -5,6 +5,19 @@
 🎓 I’m currently in my final year at ECE Department of IIIT Kalyani<br>🌱 I’m currently learning Backend Development<br>💬 Ask me about: Flutter , FastAPI , MySQL, MonogDB<br>📩 How to reach me: arpitprofessional04@gmail.com<br>📄 Know about my experiences: [Resume Here](https://drive.google.com/file/d/1lnBQEouDFGQH4k2G11oenAlsnxPYnF0H/view?usp=drive_link)<br>👨‍💻 Checkout my [Linktree](https://linktr.ee/arpit.me)<br>⚡ Fun fact: I like Geopolitics
 
 
+## ♻️ Notable Projects  
+
+- 📅 **Schedule AI** – A complete conversational AI agent which can book meetings directly into the user's google calendar just through natural language chat.  
+  🔗 [GitHub](https://github.com/ArpitInnovator/Schedule-AI)
+
+- 🤖 **Perplexity clone** – A perplexity inspired AI search app where user can any question and it will provide source cited answers.  
+   🌐 [Live](https://perplexity-clone-frontend.onrender.com/) | 🔗 [GitHub](https://github.com/ArpitInnovator/Perplexity_clone) 
+
+- ✍️ **Task management app** – An app where user can create, read, update and delete its daily task using a simple and beautiful UI.   
+  🔗 [GitHub](https://github.com/ArpitInnovator/CRUD)
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpitmishra04) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArpitMi35395900) 
