@@ -1,4 +1,4 @@
-<img width="2168" height="587" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/81c2acd9-55ae-41eb-b8d2-830ca2e3d3ad" />
+
 
 
 <h1 align="center">Hi 👋, I'm ARPIT</h1>
