@@ -1,3 +1,6 @@
+<img width="2168" height="587" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/81c2acd9-55ae-41eb-b8d2-830ca2e3d3ad" />
+
+
 <h1 align="center">Hi 👋, I'm ARPIT</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arpitinnovator&label=Profile%20views&color=0e75b6&style=flat" alt="arpitinnovator" /> </p>
 
