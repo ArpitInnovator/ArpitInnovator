@@ -11,11 +11,11 @@
 
 ## ♻️ Notable Projects  
 
-- 📅 **Schedule AI** – A complete conversational AI agent which can book meetings directly into the user's google calendar just through natural language chat.  
-  🔗 [GitHub](https://github.com/ArpitInnovator/Schedule-AI)
+- 🎵  **Music Streaming App** – An app where you can upload music, listen it, add it in favorites and many more.  
+  🌐 [Download on mobile](https://drive.google.com/drive/u/3/folders/1Jz6f4zCkgHwLhSaYcaO87c07eN_MCChE)  |🔗 [GitHub](https://github.com/ArpitInnovator/music_app)
 
 - 🤖 **Perplexity clone** – A perplexity inspired AI search app where user can ask any question and it will provide source cited answers.  
-   🌐 [Live](https://perplexity-clone-frontend.onrender.com/)  | 🔗 [GitHub](https://github.com/ArpitInnovator/Perplexity_clone) 
+  🌐 [Live](https://perplexity-clone-frontend.onrender.com/)  | 🔗 [GitHub](https://github.com/ArpitInnovator/Perplexity_clone) 
 
 - ✍️ **Task management app** – An app where user can create, read, update and delete its daily task using a simple and beautiful UI.   
   🔗 [GitHub](https://github.com/ArpitInnovator/CRUD)
